@@ -1,0 +1,99 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <?$APPLICATION->ShowHead();?>
+    <title><?$APPLICATION->ShowTitle()?></title>
+
+<!--    <title>Главная</title>-->
+
+    <link href="<?=SITE_TEMPLATE_PATH?>/css/normalize.min.css" rel="stylesheet">
+    <link href="<?=SITE_TEMPLATE_PATH?>/css/template_styles.css" rel="stylesheet">
+
+</head>
+<body>
+    <?$APPLICATION->ShowPanel()?>
+
+    <div class="page-wrapper">
+
+        <header class="main-header">
+<!--            --><?// $qq = $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/test.php" ;?>
+<!--            --><?//
+//            // создадим дамп
+//            echo "<pre>";
+//            echo mydump($qq);
+//            echo "</pre>";
+//            ?>
+<?// include_once( $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/test.php");?>
+            <div class="main-header__container container">
+                <h1 class="visually-hidden">YetiCave</h1>
+                <a class="main-header__logo">
+                    <?$APPLICATION->IncludeComponent(
+                        "bitrix:main.include",
+                        "",
+                        Array(
+                            "AREA_FILE_SHOW" => "file",
+                            "AREA_FILE_SUFFIX" => "inc",
+                            "EDIT_TEMPLATE" => "",
+                            "PATH" => "/include/logo.php"
+                        )
+                    );?>
+                </a>
+
+                <?$APPLICATION->IncludeComponent(
+                    "bitrix:search.form",
+                    "search_form",
+                    Array(
+                        "PAGE" => "#SITE_DIR#search/index.php",
+                        "USE_SUGGEST" => "N"
+                    )
+                );?>
+                <a class="main-header__add-lot button" href="add-lot.html">Добавить лот</a>
+                <nav class="user-menu">
+                    <div class="user-menu__image">
+                        <img src="<?=SITE_TEMPLATE_PATH?>/img/user.jpg" width="40" height="40" alt="Пользователь">
+                    </div>
+                    <div class="user-menu__logged">
+                        <p>Константин</p>
+                        <a href="login.html">Выйти</a>
+                    </div>
+                </nav>
+            </div>
+        </header>
+      <?if(CSite::InDir('/index.php')) { ?>
+<!--    Главная-->
+      <main class="container">
+        <section class="promo">
+            <?$APPLICATION->IncludeComponent(
+                "bitrix:main.include",
+                "",
+                Array(
+                    "AREA_FILE_SHOW" => "page",
+                    "AREA_FILE_SUFFIX" => "inc",
+                    "EDIT_TEMPLATE" => ""
+                )
+            );?>
+
+            <?$APPLICATION->IncludeComponent("bitrix:menu", "top_menu_main", Array(
+                "ALLOW_MULTI_SELECT" => "N",	// Разрешить несколько активных пунктов одновременно
+                "CHILD_MENU_TYPE" => "left",	// Тип меню для остальных уровней
+                "DELAY" => "N",	// Откладывать выполнение шаблона меню
+                "MAX_LEVEL" => "1",	// Уровень вложенности меню
+                "MENU_CACHE_GET_VARS" => array(	// Значимые переменные запроса
+                    0 => "",
+                ),
+                "MENU_CACHE_TIME" => "3600",	// Время кеширования (сек.)
+                "MENU_CACHE_TYPE" => "N",	// Тип кеширования
+                "MENU_CACHE_USE_GROUPS" => "Y",	// Учитывать права доступа
+                "ROOT_MENU_TYPE" => "top",	// Тип меню для первого уровня
+                "USE_EXT" => "Y",	// Подключать файлы с именами вида .тип_меню.menu_ext.php
+            ),
+                false
+            );?>
+
+        </section>
+
+     <? }else{?>
+        <main>
+        <? include_once( $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/menu.php");?>
+      <?}?>
