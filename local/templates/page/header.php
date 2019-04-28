@@ -49,15 +49,41 @@
                     )
                 );?>
                 <a class="main-header__add-lot button" href="add-lot.html">Добавить лот</a>
-                <nav class="user-menu">
+              <nav class="user-menu">
+                <?if ($USER->IsAuthorized()):
+                    $dbUser = CUser::GetByID($USER->GetID());
+                    $arUser = $dbUser->Fetch();
+                    ?>
+
                     <div class="user-menu__image">
-                        <img src="<?=SITE_TEMPLATE_PATH?>/img/user.jpg" width="40" height="40" alt="Пользователь">
+                      <img src="<?=CFile::GetPath($arUser["PERSONAL_PHOTO"])?>" width="40" height="40" alt="Пользователь">
                     </div>
                     <div class="user-menu__logged">
-                        <p>Константин</p>
-                        <a href="login.html">Выйти</a>
+                      <p><?=$arUser["NAME"]?></p>
+<!--                      <a href="/auth/?logout=yes">Выйти</a>-->
+                      <a href="<?=$APPLICATION->GetCurPageParam("logout=yes", array(
+												"login",
+												"logout",
+												"register",
+												"forgot_password",
+												"change_password"))?>">Выйти</a>
                     </div>
-                </nav>
+
+                <?else:?>
+
+                    <ul class="user-menu__list">
+                      <li class="user-menu__item">
+                        <noindex><a href="/auth/registration.php" rel="nofollow">Регистрация </a></noindex>
+<!--                        <a href="/auth/registration.php">Регистрация</a>-->
+                      </li>
+                      <li class="user-menu__item">
+                        <a href="/auth/">Вход</a>
+                      </li>
+                    </ul>
+
+                <?endif?>
+              </nav>
+
             </div>
         </header>
       <?if(CSite::InDir('/index.php')) { ?>

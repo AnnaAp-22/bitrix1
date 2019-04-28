@@ -1,0 +1,78 @@
+Host: bitrix1.loc
+Date: 2019-04-28 17:04:11
+Module: 
+Array
+(
+    [LOGIN] => asd
+    [PASSWORD] => 123123
+    [CONFIRM_PASSWORD] => 123123
+    [EMAIL] => y@y.ru
+    [NAME] => Уля
+    [PERSONAL_PHOTO] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+            [MODULE_ID] => main
+        )
+
+    [PERSONAL_NOTES] => выу
+    [CHECKWORD] => 5befd563c01953f925cf886f43132887
+    [~CHECKWORD_TIME] => now()
+    [ACTIVE] => Y
+    [CONFIRM_CODE] => 
+    [LID] => s1
+    [LANGUAGE_ID] => ru
+    [USER_IP] => 127.0.0.1
+    [USER_HOST] => belbCopy
+    [AUTO_TIME_ZONE] => 
+)
+
+    OnBeforeUserRegisterHandler < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\main.register\component.php:173
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:653
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\main.php:1043
+----------
+Host: bitrix1.loc
+Date: 2019-04-28 17:23:26
+Module: 
+Array
+(
+    [LOGIN] => j@j.ru
+    [PASSWORD] => 123123
+    [CONFIRM_PASSWORD] => 123123
+    [EMAIL] => j@j.ru
+    [NAME] => Сеня
+    [PERSONAL_PHOTO] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+            [MODULE_ID] => main
+        )
+
+    [PERSONAL_NOTES] => f
+    [CHECKWORD] => bdc6367cac2ffaaff2a21118f4732705
+    [~CHECKWORD_TIME] => now()
+    [ACTIVE] => Y
+    [CONFIRM_CODE] => 
+    [LID] => s1
+    [LANGUAGE_ID] => ru
+    [USER_IP] => 127.0.0.1
+    [USER_HOST] => belbCopy
+    [AUTO_TIME_ZONE] => 
+)
+
+    CUserEx::OnBeforeUserRegister < ExecuteModuleEventEx < include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\main.register\component.php:173
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:653
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\main.php:1043
+----------
