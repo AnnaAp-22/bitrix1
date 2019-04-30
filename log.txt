@@ -76,3 +76,393 @@ Array
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:653
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\main.php:1043
 ----------
+Host: bitrix1.loc
+Date: 2019-04-30 00:34:58
+Module: 
+Array
+(
+    [NAME] => йцуцу
+    [DATE_ACTIVE_TO] => 2019-04-01
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 3
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => аап
+    [MODIFIED_BY] => 1
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 345
+            [4] => 23
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 30.04.2019 00:34:58
+    [ACTIVE_FROM] => 30.04.2019 00:34:58
+    [ACTIVE_TO] => 2019-04-01
+    [SEARCHABLE_CONTENT] => ЙЦУЦУ
+ААП
+    [CODE] => ytsutsu
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-04-30 18:25:08
+Module: 
+Array
+(
+    [NAME] => Лот2
+    [DATE_ACTIVE_TO] => 2019-05-05
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 4
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => описание лота
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => lot-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php3F9A.tmp
+            [error] => 0
+            [size] => 14058
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 1
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 123
+            [4] => 3
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 30.04.2019 18:25:08
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => lot-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php3F9A.tmp~
+            [error] => 0
+            [size] => 2054
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 30.04.2019 18:25:08
+    [ACTIVE_TO] => 2019-05-05
+    [SEARCHABLE_CONTENT] => ЛОТ2
+ОПИСАНИЕ ЛОТА
+    [CODE] => lot2
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-04-30 18:57:37
+Module: 
+Array
+(
+    [NAME] => Лот2
+    [DATE_ACTIVE_TO] => 2019-05-05
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => опмсаниеууу мпи
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => lot-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\phpFD6F.tmp
+            [error] => 0
+            [size] => 14058
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 1
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 123
+            [4] => 4
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 30.04.2019 18:57:37
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => lot-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\phpFD6F.tmp~
+            [error] => 0
+            [size] => 2054
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 30.04.2019 18:57:37
+    [ACTIVE_TO] => 2019-05-05
+    [SEARCHABLE_CONTENT] => ЛОТ2
+ОПМСАНИЕУУУ МПИ
+    [CODE] => lot2
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-04-30 22:21:01
+Module: 
+Array
+(
+    [NAME] => Лот2
+    [DATE_ACTIVE_TO] => 2019-05-05
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => оппп
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => avatar.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php3121.tmp
+            [error] => 0
+            [size] => 15619
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 1
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 123
+            [4] => 4
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 30.04.2019 22:21:01
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => avatar.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php3121.tmp~
+            [error] => 0
+            [size] => 3130
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 30.04.2019 22:21:01
+    [ACTIVE_TO] => 2019-05-05
+    [SEARCHABLE_CONTENT] => ЛОТ2
+ОППП
+    [CODE] => lot2
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-04-30 23:04:51
+Module: 
+Array
+(
+    [NAME] => Лот2
+    [DATE_ACTIVE_TO] => 07.05.2019
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Описанннннн н
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => lot-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php543C.tmp
+            [error] => 0
+            [size] => 14058
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 1
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 123
+            [4] => 5
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 30.04.2019 23:04:51
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => lot-2.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php543C.tmp~
+            [error] => 0
+            [size] => 2054
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 30.04.2019 23:04:51
+    [ACTIVE_TO] => 07.05.2019
+    [SEARCHABLE_CONTENT] => ЛОТ2
+ОПИСАНННННН Н
+    [CODE] => lot2
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-04-30 23:24:29
+Module: 
+Array
+(
+    [ACTIVE] => Y
+    [MODIFIED_BY] => 1
+    [IBLOCK_ID] => 1
+    [ACTIVE_FROM] => 23.04.2019 18:35:00
+    [ACTIVE_TO] => 
+    [SORT] => 500
+    [NAME] => DC Ply Mens 2016/2017 Snowboard1
+    [CODE] => dc-ply-mens-2016-2017-snowboard1
+    [TAGS] => 
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => 585ac65c1c754ff7cc070b1c0ffa6a7f.jpg
+            [size] => 2054
+            [tmp_name] => D:/OpenServer/domains/bitrix1.loc/upload/tmp/091/585ac65c1c754ff7cc070b1c0ffa6a7f.jpg~
+            [type] => image/jpeg
+            [description] => 
+            [COPY_FILE] => Y
+            [MODULE_ID] => iblock
+            [copy] => 1
+        )
+
+    [PREVIEW_TEXT] => 
+    [PREVIEW_TEXT_TYPE] => text
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => 585ac65c1c754ff7cc070b1c0ffa6a7f.jpg
+            [size] => 14058
+            [tmp_name] => D:/OpenServer/domains/bitrix1.loc/upload/medialibrary/585/585ac65c1c754ff7cc070b1c0ffa6a7f.jpg
+            [type] => image/jpeg
+            [description] => 
+            [COPY_FILE] => Y
+            [MODULE_ID] => iblock
+        )
+
+    [DETAIL_TEXT] => Легкий маневренный сноуборд, готовый дать жару в любом парке, растопив снег мощным щелчкоми четкими дугами. Стекловолокно Bi-Ax, уложенное в двух направлениях, наделяет этот снаряд отличной гибкостью и отзывчивостью, а симметричная геометрия в сочетании с классическим прогибом кэмбер позволит уверенно держать высокие скорости. А если к концу катального дня сил совсем не останется, просто посмотрите на Вашу доску и улыбнитесь, крутая графика от Шона Кливера еще никого не оставляла равнодушным.
+    [DETAIL_TEXT_TYPE] => text
+    [TMP_ID] => 0
+    [PROPERTY_VALUES] => Array
+        (
+            [5] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 10000
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [IPROPERTY_TEMPLATES] => Array
+        (
+            [ELEMENT_META_TITLE] => 
+            [ELEMENT_META_KEYWORDS] => 
+            [ELEMENT_META_DESCRIPTION] => 
+            [ELEMENT_PAGE_TITLE] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_ALT] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_TITLE] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_NAME] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_ALT] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_TITLE] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_NAME] => 
+        )
+
+    [SEARCHABLE_CONTENT] => DC PLY MENS 2016/2017 SNOWBOARD1
+
+ЛЕГКИЙ МАНЕВРЕННЫЙ СНОУБОРД, ГОТОВЫЙ ДАТЬ ЖАРУ В ЛЮБОМ ПАРКЕ, РАСТОПИВ СНЕГ МОЩНЫМ ЩЕЛЧКОМИ ЧЕТКИМИ ДУГАМИ. СТЕКЛОВОЛОКНО BI-AX, УЛОЖЕННОЕ В ДВУХ НАПРАВЛЕНИЯХ, НАДЕЛЯЕТ ЭТОТ СНАРЯД ОТЛИЧНОЙ ГИБКОСТЬЮ И ОТЗЫВЧИВОСТЬЮ, А СИММЕТРИЧНАЯ ГЕОМЕТРИЯ В СОЧЕТАНИИ С КЛАССИЧЕСКИМ ПРОГИБОМ КЭМБЕР ПОЗВОЛИТ УВЕРЕННО ДЕРЖАТЬ ВЫСОКИЕ СКОРОСТИ. А ЕСЛИ К КОНЦУ КАТАЛЬНОГО ДНЯ СИЛ СОВСЕМ НЕ ОСТАНЕТСЯ, ПРОСТО ПОСМОТРИТЕ НА ВАШУ ДОСКУ И УЛЫБНИТЕСЬ, КРУТАЯ ГРАФИКА ОТ ШОНА КЛИВЕРА ЕЩЕ НИКОГО НЕ ОСТАВЛЯЛА РАВНОДУШНЫМ.
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\admin\iblock_element_edit.php:1045
+	D:\OpenServer\domains\bitrix1.loc\bitrix\admin\iblock_element_edit.php:1
+----------
