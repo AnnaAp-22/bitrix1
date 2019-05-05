@@ -27,7 +27,7 @@
 <?// include_once( $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/test.php");?>
             <div class="main-header__container container">
                 <h1 class="visually-hidden">YetiCave</h1>
-                <a class="main-header__logo">
+                <a class="main-header__logo" <?=(CSite::InDir('/index.php')?"":"href='/'")?>>
                     <?$APPLICATION->IncludeComponent(
                         "bitrix:main.include",
                         "",
@@ -48,7 +48,7 @@
                         "USE_SUGGEST" => "N"
                     )
                 );?>
-                <a class="main-header__add-lot button" href="add-lot.html">Добавить лот</a>
+                <a class="main-header__add-lot button" href="/add-lots/">Добавить лот</a>
               <nav class="user-menu">
                 <?if ($USER->IsAuthorized()):
                     $dbUser = CUser::GetByID($USER->GetID());
@@ -121,5 +121,5 @@
 
      <? }else{?>
         <main>
-        <? include_once( $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/menu.php");?>
+        <? include_once( $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/menu_top.php");?>
       <?}?>

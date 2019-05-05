@@ -24,9 +24,10 @@ class MyClass1
 			{
 				$arFields["PREVIEW_PICTURE"] = $arFields["DETAIL_PICTURE"];
 				$arFields["PREVIEW_PICTURE"]["tmp_name"] .= "~";
-				$arFields["PREVIEW_PICTURE"] = CIBlock::ResizePicture($arFields["PREVIEW_PICTURE"], array("WIDTH" => 100, "HEIGH" => 100, "METHOD" => "resample",));
+				$arFields["PREVIEW_PICTURE"] = CIBlock::ResizePicture($arFields["PREVIEW_PICTURE"], array("WIDTH" => 350,  "METHOD" => "resample",));
+//				$arFields["PREVIEW_PICTURE"] = CIBlock::ResizePicture($arFields["PREVIEW_PICTURE"], array("WIDTH" => 350, "HEIGH" => 260, "METHOD" => "resample",));
 			}
-			$arFields["DETAIL_PICTURE"] = CIBlock::ResizePicture($arFields["DETAIL_PICTURE"], array("WIDTH" => 400, "HEIGHT" => 400, "METHOD" => "resample",));
+			$arFields["DETAIL_PICTURE"] = CIBlock::ResizePicture($arFields["DETAIL_PICTURE"], array("WIDTH" => 730,  "METHOD" => "resample",));
 		}
 		$arParams = array(
 			"max_len" => "60", // обрезаем символьный код до 60 символов
@@ -37,7 +38,7 @@ class MyClass1
 			"use_google" => "false", // отключаем использование google
 		);
 		$arFields["CODE"] = Cutil::translit($arFields["NAME"], "ru", $arParams);
-		AddMessage2Log(print_r($arFields, true));
+//		AddMessage2Log(print_r($arFields, true));
 	}
 
 }

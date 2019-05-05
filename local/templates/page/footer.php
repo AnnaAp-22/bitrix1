@@ -3,6 +3,7 @@
 
 <footer class="main-footer">
     <? include_once( $_SERVER["DOCUMENT_ROOT"].SITE_TEMPLATE_PATH."/include/menu.php");?>
+
 <!--  <nav class="nav">-->
 <!--        --><?//$APPLICATION->IncludeComponent("bitrix:menu", "top_menu", Array(
 //            "ALLOW_MULTI_SELECT" => "N",	// Разрешить несколько активных пунктов одновременно
@@ -47,7 +48,7 @@
                 )
             );?>
         </div>
-        <a class="main-footer__add-lot button" href="add-lot.html">Добавить лот</a>
+        <a class="main-footer__add-lot button" href="/add-lots/">Добавить лот</a>
         <div class="main-footer__developed-by">
             <span class="visually-hidden">Разработано:</span>
             <a class="logo-academy" href="https://htmlacademy.ru/intensive/php">

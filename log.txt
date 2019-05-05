@@ -466,3 +466,605 @@ Array
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\admin\iblock_element_edit.php:1045
 	D:\OpenServer\domains\bitrix1.loc\bitrix\admin\iblock_element_edit.php:1
 ----------
+Host: bitrix1.loc
+Date: 2019-04-30 23:33:53
+Module: 
+Array
+(
+    [NAME] => лот3
+    [DATE_ACTIVE_TO] => 07.05.2019 23:33:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 2
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => описаниееее еее
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => lot-3.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\phpE97B.tmp
+            [error] => 0
+            [size] => 10155
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 1
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 123
+            [4] => 3
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 30.04.2019 23:33:53
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => lot-3.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\phpE97B.tmp~
+            [error] => 0
+            [size] => 1749
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 30.04.2019 23:33:53
+    [ACTIVE_TO] => 07.05.2019 23:33:00
+    [SEARCHABLE_CONTENT] => ЛОТ3
+ОПИСАНИЕЕЕЕ ЕЕЕ
+    [CODE] => lot3
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-01 22:02:46
+Module: 
+Array
+(
+    [NAME] => Крепления Union Contact Pro 2015 года размер L/XL
+    [DATE_ACTIVE_TO] => 15.05.2019 22:02:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 2
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Описание Крепления Union Contact Pro 2015 года размер L/XL Описание Крепления Union Contact Pro 2015 года размер L/XL
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => lot-3.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php9125.tmp
+            [error] => 0
+            [size] => 10155
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 8000
+            [4] => 200
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 01.05.2019 22:02:46
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => lot-3.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php9125.tmp~
+            [error] => 0
+            [size] => 1749
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 01.05.2019 22:02:46
+    [ACTIVE_TO] => 15.05.2019 22:02:00
+    [SEARCHABLE_CONTENT] => КРЕПЛЕНИЯ UNION CONTACT PRO 2015 ГОДА РАЗМЕР L/XL
+ОПИСАНИЕ КРЕПЛЕНИЯ UNION CONTACT PRO 2015 ГОДА РАЗМЕР L/XL ОПИСАНИЕ КРЕПЛЕНИЯ UNION CONTACT PRO 2015 ГОДА РАЗМЕР L/XL
+    [CODE] => krepleniya-union-contact-pro-2015-goda-razmer-l-xl
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-02 17:41:40
+Module: 
+Array
+(
+    [ACTIVE] => Y
+    [MODIFIED_BY] => 1
+    [IBLOCK_ID] => 1
+    [ACTIVE_FROM] => 30.04.2019 23:33:53
+    [ACTIVE_TO] => 07.05.2019 23:33:00
+    [SORT] => 500
+    [NAME] => лот31
+    [CODE] => lot31
+    [TAGS] => 
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => post730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:/OpenServer/domains/bitrix1.loc/upload/tmp/457/default~
+            [size] => 2914
+            [error] => 0
+            [description] => 
+            [COPY_FILE] => Y
+            [MODULE_ID] => iblock
+            [copy] => 1
+        )
+
+    [PREVIEW_TEXT] => 
+    [PREVIEW_TEXT_TYPE] => text
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => post730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:/OpenServer/domains/bitrix1.loc/upload/tmp/dd0/default
+            [size] => 20543
+            [error] => 0
+            [description] => 
+            [COPY_FILE] => Y
+            [MODULE_ID] => iblock
+            [copy] => 1
+        )
+
+    [DETAIL_TEXT] => Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности в значительной степени обуславливает создание форм развития. Разнообразный и богатый опыт новая модель организационной деятельности представляет собой интересный эксперимент проверки соответствующий условий активизации. 
+    [DETAIL_TEXT_TYPE] => text
+    [TMP_ID] => 0
+    [PROPERTY_VALUES] => Array
+        (
+            [5] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 12330
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [n0] => Array
+                        (
+                            [VALUE] => 30
+                        )
+
+                )
+
+        )
+
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 2
+        )
+
+    [IPROPERTY_TEMPLATES] => Array
+        (
+            [ELEMENT_META_TITLE] => 
+            [ELEMENT_META_KEYWORDS] => 
+            [ELEMENT_META_DESCRIPTION] => 
+            [ELEMENT_PAGE_TITLE] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_ALT] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_TITLE] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_NAME] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_ALT] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_TITLE] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_NAME] => 
+        )
+
+    [SEARCHABLE_CONTENT] => ЛОТ31
+
+ЗНАЧИМОСТЬ ЭТИХ ПРОБЛЕМ НАСТОЛЬКО ОЧЕВИДНА, ЧТО ПОСТОЯННЫЙ КОЛИЧЕСТВЕННЫЙ РОСТ И СФЕРА НАШЕЙ АКТИВНОСТИ В ЗНАЧИТЕЛЬНОЙ СТЕПЕНИ ОБУСЛАВЛИВАЕТ СОЗДАНИЕ ФОРМ РАЗВИТИЯ. РАЗНООБРАЗНЫЙ И БОГАТЫЙ ОПЫТ НОВАЯ МОДЕЛЬ ОРГАНИЗАЦИОННОЙ ДЕЯТЕЛЬНОСТИ ПРЕДСТАВЛЯЕТ СОБОЙ ИНТЕРЕСНЫЙ ЭКСПЕРИМЕНТ ПРОВЕРКИ СООТВЕТСТВУЮЩИЙ УСЛОВИЙ АКТИВИЗАЦИИ. 
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < require
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\admin\iblock_element_edit.php:1045
+	D:\OpenServer\domains\bitrix1.loc\bitrix\admin\iblock_element_edit.php:1
+----------
+Host: bitrix1.loc
+Date: 2019-05-02 17:45:40
+Module: 
+Array
+(
+    [NAME] => Ботинки для сноуборда DC Mutiny Charocal
+    [DATE_ACTIVE_TO] => 31.05.2019 17:45:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 3
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Разнообразный и богатый опыт рамки и место обучения кадров позволяет выполнять важные задания по разработке новых предложений. Повседневная практика показывает, что начало повседневной работы по формированию позиции позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. 
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => Basket730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php977C.tmp
+            [error] => 0
+            [size] => 11155
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 13
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 7777
+            [4] => 200
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 02.05.2019 17:45:40
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => Basket730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php977C.tmp~
+            [error] => 0
+            [size] => 2005
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 02.05.2019 17:45:40
+    [ACTIVE_TO] => 31.05.2019 17:45:00
+    [SEARCHABLE_CONTENT] => БОТИНКИ ДЛЯ СНОУБОРДА DC MUTINY CHAROCAL
+РАЗНООБРАЗНЫЙ И БОГАТЫЙ ОПЫТ РАМКИ И МЕСТО ОБУЧЕНИЯ КАДРОВ ПОЗВОЛЯЕТ ВЫПОЛНЯТЬ ВАЖНЫЕ ЗАДАНИЯ ПО РАЗРАБОТКЕ НОВЫХ ПРЕДЛОЖЕНИЙ. ПОВСЕДНЕВНАЯ ПРАКТИКА ПОКАЗЫВАЕТ, ЧТО НАЧАЛО ПОВСЕДНЕВНОЙ РАБОТЫ ПО ФОРМИРОВАНИЮ ПОЗИЦИИ ПОЗВОЛЯЕТ ОЦЕНИТЬ ЗНАЧЕНИЕ ПОЗИЦИЙ, ЗАНИМАЕМЫХ УЧАСТНИКАМИ В ОТНОШЕНИИ ПОСТАВЛЕННЫХ ЗАДАЧ. 
+    [CODE] => botinki-dlya-snouborda-dc-mutiny-charocal
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-02 17:49:26
+Module: 
+Array
+(
+    [NAME] => Куртка для сноуборда DC Mutiny Charocal
+    [DATE_ACTIVE_TO] => 27.05.2019 17:49:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 4
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности способствует подготовки и реализации систем массового участия. Повседневная практика показывает, что консультация с широким активом позволяет выполнять важные задания по разработке новых предложений. 
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => 730_1.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php9C0.tmp
+            [error] => 0
+            [size] => 19222
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 13
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 4444
+            [4] => 500
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 02.05.2019 17:49:26
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => 730_1.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php9C0.tmp~
+            [error] => 0
+            [size] => 2634
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 02.05.2019 17:49:26
+    [ACTIVE_TO] => 27.05.2019 17:49:00
+    [SEARCHABLE_CONTENT] => КУРТКА ДЛЯ СНОУБОРДА DC MUTINY CHAROCAL
+ЗНАЧИМОСТЬ ЭТИХ ПРОБЛЕМ НАСТОЛЬКО ОЧЕВИДНА, ЧТО ПОСТОЯННЫЙ КОЛИЧЕСТВЕННЫЙ РОСТ И СФЕРА НАШЕЙ АКТИВНОСТИ СПОСОБСТВУЕТ ПОДГОТОВКИ И РЕАЛИЗАЦИИ СИСТЕМ МАССОВОГО УЧАСТИЯ. ПОВСЕДНЕВНАЯ ПРАКТИКА ПОКАЗЫВАЕТ, ЧТО КОНСУЛЬТАЦИЯ С ШИРОКИМ АКТИВОМ ПОЗВОЛЯЕТ ВЫПОЛНЯТЬ ВАЖНЫЕ ЗАДАНИЯ ПО РАЗРАБОТКЕ НОВЫХ ПРЕДЛОЖЕНИЙ. 
+    [CODE] => kurtka-dlya-snouborda-dc-mutiny-charocal
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-02 17:51:42
+Module: 
+Array
+(
+    [NAME] => Инструмент123
+    [DATE_ACTIVE_TO] => 29.05.2019 17:51:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 5
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности способствует подготовки и реализации систем массового участия. Повседневная практика показывает, что консультация с широким активом позволяет выполнять важные задания по разработке новых предложений. 
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => original730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php1B8D.tmp
+            [error] => 0
+            [size] => 21112
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 13
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 5555
+            [4] => 200
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 02.05.2019 17:51:41
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => original730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php1B8D.tmp~
+            [error] => 0
+            [size] => 3071
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 02.05.2019 17:51:41
+    [ACTIVE_TO] => 29.05.2019 17:51:00
+    [SEARCHABLE_CONTENT] => ИНСТРУМЕНТ123
+ЗНАЧИМОСТЬ ЭТИХ ПРОБЛЕМ НАСТОЛЬКО ОЧЕВИДНА, ЧТО ПОСТОЯННЫЙ КОЛИЧЕСТВЕННЫЙ РОСТ И СФЕРА НАШЕЙ АКТИВНОСТИ СПОСОБСТВУЕТ ПОДГОТОВКИ И РЕАЛИЗАЦИИ СИСТЕМ МАССОВОГО УЧАСТИЯ. ПОВСЕДНЕВНАЯ ПРАКТИКА ПОКАЗЫВАЕТ, ЧТО КОНСУЛЬТАЦИЯ С ШИРОКИМ АКТИВОМ ПОЗВОЛЯЕТ ВЫПОЛНЯТЬ ВАЖНЫЕ ЗАДАНИЯ ПО РАЗРАБОТКЕ НОВЫХ ПРЕДЛОЖЕНИЙ. 
+    [CODE] => instrument123
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-02 17:54:24
+Module: 
+Array
+(
+    [NAME] => Маска Oakley Canopy
+    [DATE_ACTIVE_TO] => 02.06.2019 17:54:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 6
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Задача организации, в особенности же начало повседневной работы по формированию позиции позволяет оценить значение форм развития. Значимость этих проблем настолько очевидна, что дальнейшее развитие различных форм деятельности требуют определения и уточнения направлений прогрессивного развития. 
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => o730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php954F.tmp
+            [error] => 0
+            [size] => 18485
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 9
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 2000
+            [4] => 500
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 02.05.2019 17:54:24
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => o730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php954F.tmp~
+            [error] => 0
+            [size] => 2819
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 02.05.2019 17:54:24
+    [ACTIVE_TO] => 02.06.2019 17:54:00
+    [SEARCHABLE_CONTENT] => МАСКА OAKLEY CANOPY
+ЗАДАЧА ОРГАНИЗАЦИИ, В ОСОБЕННОСТИ ЖЕ НАЧАЛО ПОВСЕДНЕВНОЙ РАБОТЫ ПО ФОРМИРОВАНИЮ ПОЗИЦИИ ПОЗВОЛЯЕТ ОЦЕНИТЬ ЗНАЧЕНИЕ ФОРМ РАЗВИТИЯ. ЗНАЧИМОСТЬ ЭТИХ ПРОБЛЕМ НАСТОЛЬКО ОЧЕВИДНА, ЧТО ДАЛЬНЕЙШЕЕ РАЗВИТИЕ РАЗЛИЧНЫХ ФОРМ ДЕЯТЕЛЬНОСТИ ТРЕБУЮТ ОПРЕДЕЛЕНИЯ И УТОЧНЕНИЯ НАПРАВЛЕНИЙ ПРОГРЕССИВНОГО РАЗВИТИЯ. 
+    [CODE] => maska-oakley-canopy
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-02 18:03:10
+Module: 
+Array
+(
+    [NAME] => Лыжи
+    [DATE_ACTIVE_TO] => 03.06.2019 18:02:00
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Задача организации, в особенности же начало повседневной работы по формированию позиции позволяет оценить значение форм развития. Значимость этих проблем настолько очевидна, что дальнейшее развитие различных форм деятельности требуют определения и уточнения направлений прогрессивного развития. 
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => B730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php9D8B.tmp
+            [error] => 0
+            [size] => 10838
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 9
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 8000
+            [4] => 500
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 02.05.2019 18:03:10
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => B730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php9D8B.tmp~
+            [error] => 0
+            [size] => 1812
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 02.05.2019 18:03:10
+    [ACTIVE_TO] => 03.06.2019 18:02:00
+    [SEARCHABLE_CONTENT] => ЛЫЖИ
+ЗАДАЧА ОРГАНИЗАЦИИ, В ОСОБЕННОСТИ ЖЕ НАЧАЛО ПОВСЕДНЕВНОЙ РАБОТЫ ПО ФОРМИРОВАНИЮ ПОЗИЦИИ ПОЗВОЛЯЕТ ОЦЕНИТЬ ЗНАЧЕНИЕ ФОРМ РАЗВИТИЯ. ЗНАЧИМОСТЬ ЭТИХ ПРОБЛЕМ НАСТОЛЬКО ОЧЕВИДНА, ЧТО ДАЛЬНЕЙШЕЕ РАЗВИТИЕ РАЗЛИЧНЫХ ФОРМ ДЕЯТЕЛЬНОСТИ ТРЕБУЮТ ОПРЕДЕЛЕНИЯ И УТОЧНЕНИЯ НАПРАВЛЕНИЙ ПРОГРЕССИВНОГО РАЗВИТИЯ. 
+    [CODE] => lyzhi
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
+Host: bitrix1.loc
+Date: 2019-05-05 22:31:28
+Module: 
+Array
+(
+    [NAME] => Доска 123
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => С другой стороны, перспективное планирование обеспечивает актуальность позиций, занимаемых участниками в отношении поставленных задач.
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => Wars730.jpeg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php66DD.tmp
+            [error] => 0
+            [size] => 145584
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 20000
+            [4] => 1000
+            [6] => 07.06.2019
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 05.05.2019 22:31:28
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => Wars730.jpeg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php66DD.tmp~
+            [error] => 0
+            [size] => 22512
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 05.05.2019 22:31:28
+    [SEARCHABLE_CONTENT] => ДОСКА 123
+С ДРУГОЙ СТОРОНЫ, ПЕРСПЕКТИВНОЕ ПЛАНИРОВАНИЕ ОБЕСПЕЧИВАЕТ АКТУАЛЬНОСТЬ ПОЗИЦИЙ, ЗАНИМАЕМЫХ УЧАСТНИКАМИ В ОТНОШЕНИИ ПОСТАВЛЕННЫХ ЗАДАЧ.
+    [CODE] => doska-123
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------
