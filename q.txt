@@ -1,0 +1,549 @@
+array(1) {
+  ["THEME_COMPONENT"]=>
+  object(CBitrixComponent)#61 (33) {
+    ["__name"]=>
+    string(21) "bitrix:catalog.search"
+    ["__relativePath":"CBitrixComponent":private]=>
+    string(22) "/bitrix/catalog.search"
+    ["__path"]=>
+    string(40) "/bitrix/components/bitrix/catalog.search"
+    ["__templateName":"CBitrixComponent":private]=>
+    string(6) "search"
+    ["__templatePage"]=>
+    string(0) ""
+    ["__template"]=>
+    object(CBitrixComponentTemplate)#90 (19) {
+      ["__name"]=>
+      string(6) "search"
+      ["__page"]=>
+      string(8) "template"
+      ["__engineID"]=>
+      string(3) "php"
+      ["__file"]=>
+      string(74) "/local/templates/page/components/bitrix/catalog.search/search/template.php"
+      ["__fileAlt"]=>
+      string(0) ""
+      ["__folder"]=>
+      string(61) "/local/templates/page/components/bitrix/catalog.search/search"
+      ["__siteTemplate"]=>
+      string(4) "page"
+      ["__templateInTheme"]=>
+      bool(false)
+      ["__hasCSS"]=>
+      bool(true)
+      ["__hasJS"]=>
+      bool(false)
+      ["__component"]=>
+      *RECURSION*
+      ["__component_epilog"]=>
+      bool(false)
+      ["__bInited"]=>
+      bool(true)
+      ["__view":"CBitrixComponentTemplate":private]=>
+      array(0) {
+      }
+      ["frames":"CBitrixComponentTemplate":private]=>
+      array(0) {
+      }
+      ["frameMode":"CBitrixComponentTemplate":private]=>
+      bool(true)
+      ["languageId":"CBitrixComponentTemplate":private]=>
+      string(2) "ru"
+      ["externalCss":"CBitrixComponentTemplate":private]=>
+      array(0) {
+      }
+      ["externalJs":"CBitrixComponentTemplate":private]=>
+      array(0) {
+      }
+    }
+    ["__component_epilog":"CBitrixComponent":private]=>
+    bool(false)
+    ["arParams"]=>
+    &array(96) {
+      ["ACTION_VARIABLE"]=>
+      string(6) "action"
+      ["AJAX_MODE"]=>
+      string(1) "N"
+      ["AJAX_OPTION_ADDITIONAL"]=>
+      string(0) ""
+      ["AJAX_OPTION_HISTORY"]=>
+      string(1) "N"
+      ["AJAX_OPTION_JUMP"]=>
+      string(1) "N"
+      ["AJAX_OPTION_STYLE"]=>
+      string(1) "Y"
+      ["BASKET_URL"]=>
+      string(20) "/personal/basket.php"
+      ["CACHE_TIME"]=>
+      string(8) "36000000"
+      ["CACHE_TYPE"]=>
+      string(1) "A"
+      ["CHECK_DATES"]=>
+      string(1) "N"
+      ["CONVERT_CURRENCY"]=>
+      string(1) "N"
+      ["DETAIL_URL"]=>
+      string(0) ""
+      ["DISPLAY_BOTTOM_PAGER"]=>
+      string(1) "Y"
+      ["DISPLAY_COMPARE"]=>
+      string(1) "N"
+      ["DISPLAY_TOP_PAGER"]=>
+      string(1) "N"
+      ["ELEMENT_SORT_FIELD"]=>
+      string(4) "sort"
+      ["ELEMENT_SORT_FIELD2"]=>
+      string(2) "id"
+      ["ELEMENT_SORT_ORDER"]=>
+      string(3) "asc"
+      ["ELEMENT_SORT_ORDER2"]=>
+      string(4) "desc"
+      ["HIDE_NOT_AVAILABLE"]=>
+      string(1) "N"
+      ["HIDE_NOT_AVAILABLE_OFFERS"]=>
+      string(1) "N"
+      ["IBLOCK_ID"]=>
+      string(1) "1"
+      ["IBLOCK_TYPE"]=>
+      string(7) "catalog"
+      ["LINE_ELEMENT_COUNT"]=>
+      string(1) "3"
+      ["NO_WORD_LOGIC"]=>
+      string(1) "N"
+      ["OFFERS_LIMIT"]=>
+      string(1) "5"
+      ["PAGER_DESC_NUMBERING"]=>
+      string(1) "N"
+      ["PAGER_DESC_NUMBERING_CACHE_TIME"]=>
+      string(5) "36000"
+      ["PAGER_SHOW_ALL"]=>
+      string(1) "N"
+      ["PAGER_SHOW_ALWAYS"]=>
+      string(1) "N"
+      ["PAGER_TEMPLATE"]=>
+      string(5) "round"
+      ["PAGER_TITLE"]=>
+      string(12) "Товары"
+      ["PAGE_ELEMENT_COUNT"]=>
+      string(1) "9"
+      ["PRICE_CODE"]=>
+      array(0) {
+      }
+      ["PRICE_VAT_INCLUDE"]=>
+      string(1) "Y"
+      ["PRODUCT_ID_VARIABLE"]=>
+      string(2) "id"
+      ["PRODUCT_PROPERTIES"]=>
+      array(0) {
+      }
+      ["PRODUCT_PROPS_VARIABLE"]=>
+      string(4) "prop"
+      ["PRODUCT_QUANTITY_VARIABLE"]=>
+      string(8) "quantity"
+      ["PROPERTY_CODE"]=>
+      array(5) {
+        [0]=>
+        string(8) "DATE_FIN"
+        [1]=>
+        string(11) "PRICE_START"
+        [2]=>
+        string(9) "PRICE_CUR"
+        [3]=>
+        string(0) ""
+        [4]=>
+        string(0) ""
+      }
+      ["RESTART"]=>
+      string(1) "N"
+      ["SECTION_ID_VARIABLE"]=>
+      string(10) "SECTION_ID"
+      ["SECTION_URL"]=>
+      string(0) ""
+      ["SHOW_PRICE_COUNT"]=>
+      string(1) "1"
+      ["USE_LANGUAGE_GUESS"]=>
+      string(1) "Y"
+      ["USE_PRICE_COUNT"]=>
+      string(1) "N"
+      ["USE_PRODUCT_QUANTITY"]=>
+      string(1) "N"
+      ["~ACTION_VARIABLE"]=>
+      string(6) "action"
+      ["~AJAX_MODE"]=>
+      string(1) "N"
+      ["~AJAX_OPTION_ADDITIONAL"]=>
+      string(0) ""
+      ["~AJAX_OPTION_HISTORY"]=>
+      string(1) "N"
+      ["~AJAX_OPTION_JUMP"]=>
+      string(1) "N"
+      ["~AJAX_OPTION_STYLE"]=>
+      string(1) "Y"
+      ["~BASKET_URL"]=>
+      string(20) "/personal/basket.php"
+      ["~CACHE_TIME"]=>
+      string(8) "36000000"
+      ["~CACHE_TYPE"]=>
+      string(1) "A"
+      ["~CHECK_DATES"]=>
+      string(1) "N"
+      ["~CONVERT_CURRENCY"]=>
+      string(1) "N"
+      ["~DETAIL_URL"]=>
+      string(0) ""
+      ["~DISPLAY_BOTTOM_PAGER"]=>
+      string(1) "Y"
+      ["~DISPLAY_COMPARE"]=>
+      string(1) "N"
+      ["~DISPLAY_TOP_PAGER"]=>
+      string(1) "N"
+      ["~ELEMENT_SORT_FIELD"]=>
+      string(4) "sort"
+      ["~ELEMENT_SORT_FIELD2"]=>
+      string(2) "id"
+      ["~ELEMENT_SORT_ORDER"]=>
+      string(3) "asc"
+      ["~ELEMENT_SORT_ORDER2"]=>
+      string(4) "desc"
+      ["~HIDE_NOT_AVAILABLE"]=>
+      string(1) "N"
+      ["~HIDE_NOT_AVAILABLE_OFFERS"]=>
+      string(1) "N"
+      ["~IBLOCK_ID"]=>
+      string(1) "1"
+      ["~IBLOCK_TYPE"]=>
+      string(7) "catalog"
+      ["~LINE_ELEMENT_COUNT"]=>
+      string(1) "3"
+      ["~NO_WORD_LOGIC"]=>
+      string(1) "N"
+      ["~OFFERS_LIMIT"]=>
+      string(1) "5"
+      ["~PAGER_DESC_NUMBERING"]=>
+      string(1) "N"
+      ["~PAGER_DESC_NUMBERING_CACHE_TIME"]=>
+      string(5) "36000"
+      ["~PAGER_SHOW_ALL"]=>
+      string(1) "N"
+      ["~PAGER_SHOW_ALWAYS"]=>
+      string(1) "N"
+      ["~PAGER_TEMPLATE"]=>
+      string(5) "round"
+      ["~PAGER_TITLE"]=>
+      string(12) "Товары"
+      ["~PAGE_ELEMENT_COUNT"]=>
+      string(1) "9"
+      ["~PRICE_CODE"]=>
+      array(0) {
+      }
+      ["~PRICE_VAT_INCLUDE"]=>
+      string(1) "Y"
+      ["~PRODUCT_ID_VARIABLE"]=>
+      string(2) "id"
+      ["~PRODUCT_PROPERTIES"]=>
+      array(0) {
+      }
+      ["~PRODUCT_PROPS_VARIABLE"]=>
+      string(4) "prop"
+      ["~PRODUCT_QUANTITY_VARIABLE"]=>
+      string(8) "quantity"
+      ["~PROPERTY_CODE"]=>
+      array(5) {
+        [0]=>
+        string(8) "DATE_FIN"
+        [1]=>
+        string(11) "PRICE_START"
+        [2]=>
+        string(9) "PRICE_CUR"
+        [3]=>
+        string(0) ""
+        [4]=>
+        string(0) ""
+      }
+      ["~RESTART"]=>
+      string(1) "N"
+      ["~SECTION_ID_VARIABLE"]=>
+      string(10) "SECTION_ID"
+      ["~SECTION_URL"]=>
+      string(0) ""
+      ["~SHOW_PRICE_COUNT"]=>
+      string(1) "1"
+      ["~USE_LANGUAGE_GUESS"]=>
+      string(1) "Y"
+      ["~USE_PRICE_COUNT"]=>
+      string(1) "N"
+      ["~USE_PRODUCT_QUANTITY"]=>
+      string(1) "N"
+      ["OFFERS_SORT_FIELD2"]=>
+      string(0) ""
+      ["OFFERS_SORT_ORDER2"]=>
+      string(0) ""
+    }
+    ["arResult"]=>
+    &array(1) {
+      ["THEME_COMPONENT"]=>
+      *RECURSION*
+    }
+    ["arResultCacheKeys"]=>
+    bool(false)
+    ["__parent"]=>
+    NULL
+    ["__bInited":"CBitrixComponent":private]=>
+    bool(true)
+    ["__arIncludeAreaIcons":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__NavNum":"CBitrixComponent":private]=>
+    bool(false)
+    ["__cache":"CBitrixComponent":private]=>
+    NULL
+    ["__cacheID":"CBitrixComponent":private]=>
+    string(0) ""
+    ["__cachePath":"CBitrixComponent":private]=>
+    string(0) ""
+    ["__children_css":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__children_js":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__children_epilogs":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__children_frames":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__view":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__currentCounter":"CBitrixComponent":private]=>
+    int(1)
+    ["__currentCounters":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["__editButtons":"CBitrixComponent":private]=>
+    array(0) {
+    }
+    ["classOfComponent":"CBitrixComponent":private]=>
+    string(0) ""
+    ["randomSequence":"CBitrixComponent":private]=>
+    NULL
+    ["frameMode":"CBitrixComponent":private]=>
+    NULL
+    ["request":protected]=>
+    object(Bitrix\Main\HttpRequest)#12 (11) {
+      ["queryString":protected]=>
+      object(Bitrix\Main\Type\ParameterDictionary)#13 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(3) {
+          ["q"]=>
+          string(10) "доска"
+          ["s"]=>
+          string(10) "Найти"
+          ["clear_cache"]=>
+          string(1) "Y"
+        }
+      }
+      ["postData":protected]=>
+      object(Bitrix\Main\Type\ParameterDictionary)#14 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(0) {
+        }
+      }
+      ["files":protected]=>
+      object(Bitrix\Main\Type\ParameterDictionary)#15 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(0) {
+        }
+      }
+      ["cookies":protected]=>
+      object(Bitrix\Main\Type\ParameterDictionary)#17 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(5) {
+          ["GUEST_ID"]=>
+          string(2) "27"
+          ["SALE_UID"]=>
+          string(1) "1"
+          ["LOGIN"]=>
+          string(5) "admin"
+          ["SOUND_LOGIN_PLAYED"]=>
+          string(1) "Y"
+          ["LAST_VISIT"]=>
+          string(19) "07.05.2019 20:15:54"
+        }
+      }
+      ["cookiesRaw":protected]=>
+      object(Bitrix\Main\Type\ParameterDictionary)#16 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(7) {
+          ["PHPSESSID"]=>
+          string(26) "d6q91m60bbkgh24uaoqt9uubd0"
+          ["BITRIX_SM_GUEST_ID"]=>
+          string(2) "27"
+          ["BITRIX_CONVERSION_CONTEXT_s1"]=>
+          string(62) "{"ID":1,"EXPIRE":1557262740,"UNIQUE":["conversion_visit_day"]}"
+          ["BITRIX_SM_SALE_UID"]=>
+          string(1) "1"
+          ["BITRIX_SM_LOGIN"]=>
+          string(5) "admin"
+          ["BITRIX_SM_SOUND_LOGIN_PLAYED"]=>
+          string(1) "Y"
+          ["BITRIX_SM_LAST_VISIT"]=>
+          string(19) "07.05.2019 20:15:54"
+        }
+      }
+      ["headers":protected]=>
+      object(Bitrix\Main\Type\ParameterDictionary)#21 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(10) {
+          ["host"]=>
+          string(11) "bitrix1.loc"
+          ["connection"]=>
+          string(10) "keep-alive"
+          ["upgrade-insecure-requests"]=>
+          string(1) "1"
+          ["dnt"]=>
+          string(1) "1"
+          ["user-agent"]=>
+          string(102) "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+          ["accept"]=>
+          string(118) "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+          ["referer"]=>
+          string(115) "http://bitrix1.loc/search/index.php?q=%D0%B4%D0%BE%D1%81%D0%BA%D0%B0&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&clear_cache=Y"
+          ["accept-encoding"]=>
+          string(13) "gzip, deflate"
+          ["accept-language"]=>
+          string(35) "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
+          ["cookie"]=>
+          string(309) "PHPSESSID=d6q91m60bbkgh24uaoqt9uubd0; BITRIX_SM_GUEST_ID=27; BITRIX_CONVERSION_CONTEXT_s1=%7B%22ID%22%3A1%2C%22EXPIRE%22%3A1557262740%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; BITRIX_SM_LAST_VISIT=07.05.2019+20%3A15%3A54"
+        }
+      }
+      ["server":protected]=>
+      object(Bitrix\Main\Server)#11 (2) {
+        ["arRawValues":protected]=>
+        NULL
+        ["values":protected]=>
+        array(40) {
+          ["REMOTE_USER"]=>
+          string(0) ""
+          ["HTTP_HOST"]=>
+          string(11) "bitrix1.loc"
+          ["HTTP_CONNECTION"]=>
+          string(10) "keep-alive"
+          ["HTTP_UPGRADE_INSECURE_REQUESTS"]=>
+          string(1) "1"
+          ["HTTP_DNT"]=>
+          string(1) "1"
+          ["HTTP_USER_AGENT"]=>
+          string(102) "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+          ["HTTP_ACCEPT"]=>
+          string(118) "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3"
+          ["HTTP_REFERER"]=>
+          string(115) "http://bitrix1.loc/search/index.php?q=%D0%B4%D0%BE%D1%81%D0%BA%D0%B0&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&clear_cache=Y"
+          ["HTTP_ACCEPT_ENCODING"]=>
+          string(13) "gzip, deflate"
+          ["HTTP_ACCEPT_LANGUAGE"]=>
+          string(35) "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7"
+          ["HTTP_COOKIE"]=>
+          string(309) "PHPSESSID=d6q91m60bbkgh24uaoqt9uubd0; BITRIX_SM_GUEST_ID=27; BITRIX_CONVERSION_CONTEXT_s1=%7B%22ID%22%3A1%2C%22EXPIRE%22%3A1557262740%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; BITRIX_SM_LAST_VISIT=07.05.2019+20%3A15%3A54"
+          ["PATH"]=>
+          string(525) "d:\openserver\modules\php\PHP-7.0\ext;d:\openserver\modules\php\PHP-7.0\pear;d:\openserver\modules\php\PHP-7.0\pear\bin;d:\openserver\modules\php\PHP-7.0;d:\openserver\modules\imagemagick;d:\openserver\modules\wget\bin;d:\openserver\modules\git;d:\openserver\modules\git\bin;d:\openserver\modules\git\mingw\bin;d:\openserver\modules\git\cmd;d:\openserver\modules\database\MySQL-5.7\bin;d:\openserver\modules\http\Apache-PHP-7\bin;d:\openserver\modules\http\Apache-PHP-7;C:\Windows\system32;C:\Windows;C:\Windows\system32\Wbem"
+          ["SystemRoot"]=>
+          string(10) "C:\Windows"
+          ["COMSPEC"]=>
+          string(27) "C:\Windows\system32\cmd.exe"
+          ["PATHEXT"]=>
+          string(53) ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+          ["WINDIR"]=>
+          string(10) "C:\Windows"
+          ["SERVER_SIGNATURE"]=>
+          string(0) ""
+          ["SERVER_SOFTWARE"]=>
+          string(6) "Apache"
+          ["SERVER_NAME"]=>
+          string(11) "bitrix1.loc"
+          ["SERVER_ADDR"]=>
+          string(9) "127.0.0.1"
+          ["SERVER_PORT"]=>
+          string(2) "80"
+          ["REMOTE_ADDR"]=>
+          string(9) "127.0.0.1"
+          ["DOCUMENT_ROOT"]=>
+          string(33) "D:/OpenServer/domains/bitrix1.loc"
+          ["REQUEST_SCHEME"]=>
+          string(4) "http"
+          ["CONTEXT_PREFIX"]=>
+          string(0) ""
+          ["CONTEXT_DOCUMENT_ROOT"]=>
+          string(33) "D:/OpenServer/domains/bitrix1.loc"
+          ["SERVER_ADMIN"]=>
+          string(18) "[no address given]"
+          ["SCRIPT_FILENAME"]=>
+          string(50) "D:/OpenServer/domains/bitrix1.loc/search/index.php"
+          ["REMOTE_PORT"]=>
+          string(5) "17728"
+          ["GATEWAY_INTERFACE"]=>
+          string(7) "CGI/1.1"
+          ["SERVER_PROTOCOL"]=>
+          string(8) "HTTP/1.1"
+          ["REQUEST_METHOD"]=>
+          string(3) "GET"
+          ["QUERY_STRING"]=>
+          string(79) "q=%D0%B4%D0%BE%D1%81%D0%BA%D0%B0&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&clear_cache=Y"
+          ["REQUEST_URI"]=>
+          string(97) "/search/index.php?q=%D0%B4%D0%BE%D1%81%D0%BA%D0%B0&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&clear_cache=Y"
+          ["SCRIPT_NAME"]=>
+          string(17) "/search/index.php"
+          ["PHP_SELF"]=>
+          string(17) "/search/index.php"
+          ["REQUEST_TIME_FLOAT"]=>
+          float(1557252242.404)
+          ["REQUEST_TIME"]=>
+          int(1557252242)
+          ["argv"]=>
+          array(1) {
+            [0]=>
+            string(79) "q=%D0%B4%D0%BE%D1%81%D0%BA%D0%B0&s=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&clear_cache=Y"
+          }
+          ["argc"]=>
+          int(1)
+        }
+      }
+      ["requestedPage":protected]=>
+      string(17) "/search/index.php"
+      ["requestedPageDirectory":protected]=>
+      string(7) "/search"
+      ["arRawValues":protected]=>
+      NULL
+      ["values":protected]=>
+      array(3) {
+        ["q"]=>
+        string(10) "доска"
+        ["s"]=>
+        string(10) "Найти"
+        ["clear_cache"]=>
+        string(1) "Y"
+      }
+    }
+    ["siteId":"CBitrixComponent":private]=>
+    string(2) "s1"
+    ["siteTemplateId":"CBitrixComponent":private]=>
+    string(4) "page"
+    ["languageId":"CBitrixComponent":private]=>
+    string(2) "ru"
+    ["signedParameters":protected]=>
+    NULL
+  }
+}

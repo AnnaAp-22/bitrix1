@@ -38,7 +38,8 @@ class MyClass1
 			"use_google" => "false", // отключаем использование google
 		);
 		$arFields["CODE"] = Cutil::translit($arFields["NAME"], "ru", $arParams);
-//		AddMessage2Log(print_r($arFields, true));
+		$arFields["PROPERTY_VALUES"][7] = $arFields["PROPERTY_VALUES"][2];//PRICE_START -> PRICE_CUR
+		AddMessage2Log(print_r($arFields, true));
 	}
 
 }

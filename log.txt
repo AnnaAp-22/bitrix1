@@ -1068,3 +1068,65 @@ Array
 	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
 ----------
+Host: bitrix1.loc
+Date: 2019-05-06 21:09:42
+Module: 
+Array
+(
+    [NAME] => Доска123
+    [IBLOCK_SECTION] => Array
+        (
+            [0] => 1
+        )
+
+    [DETAIL_TEXT_TYPE] => text
+    [DETAIL_TEXT] => Есть над чем задуматься: представители современных социальных резервов призывают нас к новым свершениям, которые, в свою очередь, должны быть разоблачены. В своем стремлении улучшить пользовательский опыт мы упускаем, что базовые сценарии поведения пользователей будут ограничены исключительно образом мышления.
+    [DETAIL_PICTURE] => Array
+        (
+            [name] => Access_BiminiTop_730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php925E.tmp
+            [error] => 0
+            [size] => 97355
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [MODIFIED_BY] => 13
+    [PROPERTY_VALUES] => Array
+        (
+            [2] => 12000
+            [4] => 100
+            [6] => 27.05.2019
+            [7] => 12000
+        )
+
+    [ACTIVE] => Y
+    [IBLOCK_ID] => 1
+    [DATE_ACTIVE_FROM] => 06.05.2019 21:09:42
+    [PREVIEW_PICTURE] => Array
+        (
+            [name] => Access_BiminiTop_730.jpg
+            [type] => image/jpeg
+            [tmp_name] => D:\OpenServer\userdata\temp\php925E.tmp~
+            [error] => 0
+            [size] => 11935
+            [del] => 
+            [description] => 
+            [MODULE_ID] => iblock
+        )
+
+    [ACTIVE_FROM] => 06.05.2019 21:09:42
+    [SEARCHABLE_CONTENT] => ДОСКА123
+ЕСТЬ НАД ЧЕМ ЗАДУМАТЬСЯ: ПРЕДСТАВИТЕЛИ СОВРЕМЕННЫХ СОЦИАЛЬНЫХ РЕЗЕРВОВ ПРИЗЫВАЮТ НАС К НОВЫМ СВЕРШЕНИЯМ, КОТОРЫЕ, В СВОЮ ОЧЕРЕДЬ, ДОЛЖНЫ БЫТЬ РАЗОБЛАЧЕНЫ. В СВОЕМ СТРЕМЛЕНИИ УЛУЧШИТЬ ПОЛЬЗОВАТЕЛЬСКИЙ ОПЫТ МЫ УПУСКАЕМ, ЧТО БАЗОВЫЕ СЦЕНАРИИ ПОВЕДЕНИЯ ПОЛЬЗОВАТЕЛЕЙ БУДУТ ОГРАНИЧЕНЫ ИСКЛЮЧИТЕЛЬНО ОБРАЗОМ МЫШЛЕНИЯ.
+    [CODE] => doska123
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
+----------

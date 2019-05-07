@@ -2,9 +2,9 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Каталог");
 ?><?$APPLICATION->IncludeComponent(
-	"bitrix:catalog", 
-	"catalog_old1", 
-	array(
+	"bitrix:catalog",
+	"catalog_old1",
+	Array(
 		"ACTION_VARIABLE" => "action",
 		"ADD_ELEMENT_CHAIN" => "N",
 		"ADD_PICT_PROP" => "-",
@@ -26,12 +26,8 @@ $APPLICATION->SetTitle("Каталог");
 		"COMPATIBLE_MODE" => "N",
 		"CONVERT_CURRENCY" => "N",
 		"DETAIL_ADD_DETAIL_TO_SLIDER" => "N",
-		"DETAIL_ADD_TO_BASKET_ACTION" => array(
-			0 => "BUY",
-		),
-		"DETAIL_ADD_TO_BASKET_ACTION_PRIMARY" => array(
-			0 => "BUY",
-		),
+		"DETAIL_ADD_TO_BASKET_ACTION" => array("BUY"),
+		"DETAIL_ADD_TO_BASKET_ACTION_PRIMARY" => array(0=>"BUY",),
 		"DETAIL_BACKGROUND_IMAGE" => "-",
 		"DETAIL_BRAND_USE" => "N",
 		"DETAIL_BROWSER_TITLE" => "-",
@@ -46,10 +42,11 @@ $APPLICATION->SetTitle("Каталог");
 		"DETAIL_PRODUCT_PAY_BLOCK_ORDER" => "rating,price,priceRanges,quantityLimit,quantity,buttons",
 		"DETAIL_SET_CANONICAL_URL" => "N",
 		"DETAIL_SET_VIEWED_IN_COMPONENT" => "N",
+		"DETAIL_SHOW_MAX_QUANTITY" => "N",
 		"DETAIL_SHOW_POPULAR" => "N",
 		"DETAIL_SHOW_SLIDER" => "N",
 		"DETAIL_SHOW_VIEWED" => "N",
-		"DETAIL_STRICT_SECTION_CHECK" => "N",
+		"DETAIL_STRICT_SECTION_CHECK" => "Y",
 		"DETAIL_USE_COMMENTS" => "N",
 		"DETAIL_USE_VOTE_RATING" => "N",
 		"DISABLE_INIT_JS_IN_COMPONENT" => "N",
@@ -120,8 +117,7 @@ $APPLICATION->SetTitle("Каталог");
 		"PAGER_TITLE" => "Товары",
 		"PAGE_ELEMENT_COUNT" => "9",
 		"PARTIAL_PRODUCT_PROPERTIES" => "N",
-		"PRICE_CODE" => array(
-		),
+		"PRICE_CODE" => array(),
 		"PRICE_VAT_INCLUDE" => "Y",
 		"PRICE_VAT_SHOW_VALUE" => "N",
 		"PRODUCT_ID_VARIABLE" => "id",
@@ -143,6 +139,7 @@ $APPLICATION->SetTitle("Каталог");
 		"SECTION_TOP_DEPTH" => "1",
 		"SEF_FOLDER" => "/catalog/",
 		"SEF_MODE" => "Y",
+		"SEF_URL_TEMPLATES" => Array("compare"=>"compare.php?action=#ACTION_CODE#","element"=>"#SECTION_CODE#/#ELEMENT_ID#/","section"=>"#SECTION_CODE#/","sections"=>"","smart_filter"=>"#SECTION_ID#/filter/#SMART_FILTER_PATH#/apply/"),
 		"SET_LAST_MODIFIED" => "N",
 		"SET_STATUS_404" => "Y",
 		"SET_TITLE" => "Y",
@@ -175,6 +172,7 @@ $APPLICATION->SetTitle("Каталог");
 		"USER_CONSENT_ID" => "0",
 		"USER_CONSENT_IS_CHECKED" => "N",
 		"USER_CONSENT_IS_LOADED" => "N",
+		"USE_ALSO_BUY" => "N",
 		"USE_BIG_DATA" => "N",
 		"USE_COMMON_SETTINGS_BASKET_POPUP" => "N",
 		"USE_COMPARE" => "N",
@@ -190,21 +188,6 @@ $APPLICATION->SetTitle("Каталог");
 		"USE_REVIEW" => "N",
 		"USE_SALE_BESTSELLERS" => "N",
 		"USE_STORE" => "N",
-		"COMPONENT_TEMPLATE" => "catalog_old1",
-		"DETAIL_SHOW_MAX_QUANTITY" => "N",
-		"USE_ALSO_BUY" => "N",
-		"SEF_URL_TEMPLATES" => array(
-			"sections" => "",
-			"section" => "#SECTION_CODE#/",
-			"element" => "#SECTION_CODE#/#ELEMENT_ID#/",
-			"compare" => "compare.php?action=#ACTION_CODE#",
-			"smart_filter" => "#SECTION_ID#/filter/#SMART_FILTER_PATH#/apply/",
-		),
-		"VARIABLE_ALIASES" => array(
-			"compare" => array(
-				"ACTION_CODE" => "action",
-			),
-		)
-	),
-	false
+		"VARIABLE_ALIASES" => array("compare"=>array("ACTION_CODE"=>"action",),)
+	)
 );?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
