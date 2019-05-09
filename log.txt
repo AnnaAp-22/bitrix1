@@ -1130,3 +1130,717 @@ Array
 	D:\OpenServer\domains\bitrix1.loc\bitrix\components\bitrix\iblock.element.add.form\component.php:756
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component.php:594
 ----------
+Host: bitrix1.loc
+Date: 2019-05-08 23:29:27
+Module: 
+Array
+(
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 1
+            [PRICE] => 11111
+            [SECTION] => Доски
+            [STATE] => торги
+            [7] => 
+        )
+
+    [NAME] => b08.05.2019 23:29:27
+    [SEARCHABLE_CONTENT] => B08.05.2019 23:29:27
+    [CODE] => b08-05-2019-23-29-27
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:45
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 00:02:08
+Module: 
+Array
+(
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 1
+            [PRICE] => 12312
+            [SECTION] => Доски
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 00:02:08
+    [SEARCHABLE_CONTENT] => B09.05.2019 00:02:08
+    [CODE] => b09-05-2019-00-02-08
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:45
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 00:08:01
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 00:08:01
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 1
+            [PRICE] => 22222
+            [SECTION] => Доски
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 00:08:01
+    [ACTIVE_FROM] => 09.05.2019 00:08:01
+    [SEARCHABLE_CONTENT] => B09.05.2019 00:08:01
+    [CODE] => b09-05-2019-00-08-01
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:46
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 00:13:15
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 00:13:15
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 1
+            [PRICE] => 11111
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 00:13:15
+    [ACTIVE_FROM] => 09.05.2019 00:13:15
+    [SEARCHABLE_CONTENT] => B09.05.2019 00:13:15
+    [CODE] => b09-05-2019-00-13-15
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:46
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:23:39
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:23:39
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 99999
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:23:39
+    [ACTIVE_FROM] => 09.05.2019 12:23:39
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:23:39
+    [CODE] => b09-05-2019-12-23-39
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:29:18
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:29:18
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 77777
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:29:18
+    [ACTIVE_FROM] => 09.05.2019 12:29:18
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:29:18
+    [CODE] => b09-05-2019-12-29-18
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:34:56
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:34:56
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 78999
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:34:56
+    [ACTIVE_FROM] => 09.05.2019 12:34:56
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:34:56
+    [CODE] => b09-05-2019-12-34-56
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:37:39
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:37:39
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 90000
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:37:39
+    [ACTIVE_FROM] => 09.05.2019 12:37:39
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:37:39
+    [CODE] => b09-05-2019-12-37-39
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:42:21
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:42:21
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 91111
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:42:21
+    [ACTIVE_FROM] => 09.05.2019 12:42:21
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:42:21
+    [CODE] => b09-05-2019-12-42-21
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:45:14
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:45:14
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 91222
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:45:14
+    [ACTIVE_FROM] => 09.05.2019 12:45:14
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:45:14
+    [CODE] => b09-05-2019-12-45-14
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 12:50:27
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 12:50:27
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 91500
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 12:50:27
+    [ACTIVE_FROM] => 09.05.2019 12:50:27
+    [SEARCHABLE_CONTENT] => B09.05.2019 12:50:27
+    [CODE] => b09-05-2019-12-50-27
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:48
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 14:53:05
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 14:53:05
+    [CREATED_BY] => 
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 123456
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 14:53:05
+    [ACTIVE_FROM] => 09.05.2019 14:53:05
+    [SEARCHABLE_CONTENT] => B09.05.2019 14:53:05
+    [CODE] => b09-05-2019-14-53-05
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 16:39:41
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 16:39:41
+    [CREATED_BY] => 2
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 2500
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 16:39:41
+    [ACTIVE_FROM] => 09.05.2019 16:39:41
+    [SEARCHABLE_CONTENT] => B09.05.2019 16:39:41
+    [CODE] => b09-05-2019-16-39-41
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 16:40:22
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 16:40:22
+    [CREATED_BY] => 2
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 2500
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 16:40:22
+    [ACTIVE_FROM] => 09.05.2019 16:40:22
+    [SEARCHABLE_CONTENT] => B09.05.2019 16:40:22
+    [CODE] => b09-05-2019-16-40-22
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 17:42:03
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 17:42:03
+    [CREATED_BY] => 13
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 2700
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 17:42:03
+    [ACTIVE_FROM] => 09.05.2019 17:42:03
+    [SEARCHABLE_CONTENT] => B09.05.2019 17:42:03
+    [CODE] => b09-05-2019-17-42-03
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 17:50:41
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 17:50:41
+    [CREATED_BY] => 13
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 3000
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 17:50:41
+    [ACTIVE_FROM] => 09.05.2019 17:50:41
+    [SEARCHABLE_CONTENT] => B09.05.2019 17:50:41
+    [CODE] => b09-05-2019-17-50-41
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 17:53:28
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 17:53:28
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 3500
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 17:53:28
+    [ACTIVE_FROM] => 09.05.2019 17:53:28
+    [SEARCHABLE_CONTENT] => B09.05.2019 17:53:28
+    [CODE] => b09-05-2019-17-53-28
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 18:11:31
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 18:11:31
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 4000
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 18:11:31
+    [ACTIVE_FROM] => 09.05.2019 18:11:31
+    [SEARCHABLE_CONTENT] => B09.05.2019 18:11:31
+    [CODE] => b09-05-2019-18-11-31
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 18:15:28
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 18:15:28
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 4000
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 18:15:28
+    [ACTIVE_FROM] => 09.05.2019 18:15:28
+    [SEARCHABLE_CONTENT] => B09.05.2019 18:15:28
+    [CODE] => b09-05-2019-18-15-28
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 18:16:27
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 18:16:27
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 4500
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 18:16:27
+    [ACTIVE_FROM] => 09.05.2019 18:16:27
+    [SEARCHABLE_CONTENT] => B09.05.2019 18:16:27
+    [CODE] => b09-05-2019-18-16-27
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 18:59:37
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 18:59:37
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 5000
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 18:59:37
+    [ACTIVE_FROM] => 09.05.2019 18:59:37
+    [SEARCHABLE_CONTENT] => B09.05.2019 18:59:37
+    [CODE] => b09-05-2019-18-59-37
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 19:00:13
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 19:00:13
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 5500
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 19:00:13
+    [ACTIVE_FROM] => 09.05.2019 19:00:13
+    [SEARCHABLE_CONTENT] => B09.05.2019 19:00:13
+    [CODE] => b09-05-2019-19-00-13
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-09 19:01:24
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 09.05.2019 19:01:24
+    [CREATED_BY] => 13
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 6000
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b09.05.2019 19:01:24
+    [ACTIVE_FROM] => 09.05.2019 19:01:24
+    [SEARCHABLE_CONTENT] => B09.05.2019 19:01:24
+    [CODE] => b09-05-2019-19-01-24
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-10 00:23:46
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 10.05.2019 00:23:46
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 6000
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b10.05.2019 00:23:46
+    [ACTIVE_FROM] => 10.05.2019 00:23:46
+    [SEARCHABLE_CONTENT] => B10.05.2019 00:23:46
+    [CODE] => b10-05-2019-00-23-46
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
