@@ -55,9 +55,9 @@
                     $arUser = $dbUser->Fetch();
                     ?>
 
-                    <div class="user-menu__image">
+                    <a class="user-menu__image" href="/auth/profile.php">
                       <img src="<?=CFile::GetPath($arUser["PERSONAL_PHOTO"])?>" width="40" height="40" alt="Пользователь">
-                    </div>
+                    </a>
                     <div class="user-menu__logged">
                       <p><?=$arUser["NAME"]?></p>
 <!--                      <a href="/auth/?logout=yes">Выйти</a>-->

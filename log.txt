@@ -1844,3 +1844,33 @@ Array
 	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
 ----------
+Host: bitrix1.loc
+Date: 2019-05-10 11:38:25
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 10.05.2019 11:38:25
+    [CREATED_BY] => 2
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 10
+            [PRICE] => 6500
+            [SECTION] => Разное
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b10.05.2019 11:38:25
+    [ACTIVE_FROM] => 10.05.2019 11:38:25
+    [SEARCHABLE_CONTENT] => B10.05.2019 11:38:25
+    [CODE] => b10-05-2019-11-38-25
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
