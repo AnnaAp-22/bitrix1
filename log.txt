@@ -1874,3 +1874,63 @@ Array
 	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:41
 	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
 ----------
+Host: bitrix1.loc
+Date: 2019-05-11 16:04:46
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 11.05.2019 16:04:46
+    [CREATED_BY] => 1
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 3
+            [PRICE] => 123500
+            [SECTION] => Доски
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b11.05.2019 16:04:46
+    [ACTIVE_FROM] => 11.05.2019 16:04:46
+    [SEARCHABLE_CONTENT] => B11.05.2019 16:04:46
+    [CODE] => b11-05-2019-16-04-46
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:43
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------
+Host: bitrix1.loc
+Date: 2019-05-11 20:50:34
+Module: 
+Array
+(
+    [DATE_ACTIVE_FROM] => 11.05.2019 20:50:33
+    [CREATED_BY] => 2
+    [IBLOCK_ID] => 2
+    [PROPERTY_VALUES] => Array
+        (
+            [LOT_LINK] => 1
+            [PRICE] => 4500
+            [SECTION] => Доски и лыжи
+            [STATUS] => 4
+            [7] => 
+        )
+
+    [NAME] => b11.05.2019 20:50:33
+    [ACTIVE_FROM] => 11.05.2019 20:50:33
+    [SEARCHABLE_CONTENT] => B11.05.2019 20:50:33
+    [CODE] => b11-05-2019-20-50-33
+)
+
+    MyClass1::OnBeforeIBlockElementAddHandler < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < include
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\module.php:475
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:4614
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\iblock\classes\general\iblockelement.php:3437
+	D:\OpenServer\domains\bitrix1.loc\local\templates\page\components\bitrix\catalog\catalog_old1\element.php:42
+	D:\OpenServer\domains\bitrix1.loc\bitrix\modules\main\classes\general\component_template.php:720
+----------

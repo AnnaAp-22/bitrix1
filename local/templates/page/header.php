@@ -48,7 +48,9 @@
                         "USE_SUGGEST" => "N"
                     )
                 );?>
+							<?if ($USER->IsAuthorized()):?>
                 <a class="main-header__add-lot button" href="/add-lots/">Добавить лот</a>
+              <?endif?>
               <nav class="user-menu">
                 <?if ($USER->IsAuthorized()):
                     $dbUser = CUser::GetByID($USER->GetID());

@@ -48,7 +48,9 @@
                 )
             );?>
         </div>
+			<?if ($USER->IsAuthorized()):?>
         <a class="main-footer__add-lot button" href="/add-lots/">Добавить лот</a>
+			<?endif?>
         <div class="main-footer__developed-by">
             <span class="visually-hidden">Разработано:</span>
             <a class="logo-academy" href="https://htmlacademy.ru/intensive/php">
